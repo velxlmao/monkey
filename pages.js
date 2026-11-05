@@ -137,11 +137,6 @@
 	];
 	const APPS = [
 		{
-			name: "Blooket Modded",
-			url: "https://play.blooket.com/",
-			img: "apps/blooketbot.png",
-		},
-		{
 			name: "Discord",
 			url: "https://discord.com/app",
 			img: "apps/discord.png",
